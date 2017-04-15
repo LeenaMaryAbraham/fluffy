@@ -12,5 +12,5 @@ Finally, can see chapter1.md
 
 Ensure the correct version \(highlight in blue, next to Create a branch\) to edit is selected while saving and publishing. Else you may find none :/
 
-I re
+I have now created a new branch and saving.
 

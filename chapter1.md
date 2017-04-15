@@ -1,1 +1,10 @@
-# First Chapter
+# Chapter 1
+
+### Namaste Git Book  Version 1.
+
+
+
+$$(a^b)/10$$
+
+^b$$x = y$$$$x = y$$
+

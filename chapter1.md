@@ -4,13 +4,19 @@
 
 $$(a^b)/10$$Math $$(a^b)^2$$
 
-Hello, I cannot find the publish button.
+After making the first updates to Chapter1.md, cannae find the publish button.
 
-After save. I can find the publish button.
+After save, can find publish button.
 
-Finally, can see chapter1.md
+Finally, can see chapter1.md in Github.
 
 Ensure the correct version \(highlight in blue, next to Create a branch\) to edit is selected while saving and publishing. Else you may find none :/
 
-I have now created a new branch and saving.
+After merging, remove the unwanted branches...maybe, ?? 
+
+Now a new branch NewSample is created and saving ... and see the changes in Github...good :\) 
+
+I dont find some buttons in my toolbar as in 
+
+
 

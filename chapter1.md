@@ -1,12 +1,10 @@
 # Chapter 1
 
-### Namaste Git Book  Version 1.
+### Trying to Figure out Github and Gitbook.
 
-$$(a^b)/10$$
+$$(a^b)/10$$Math $$(a^b)^2$$
 
-^b$$x = y$$$$x = y$$
+Hello, I cannot find the publish button.
 
-
-
-Hello, I cnt find the publish button.
+After save. I can find the publish button.
 

@@ -2,7 +2,6 @@
 
 "Welcome to a blank page"
 
-  
 Some things to figure out.
 
 How to insert plugins.. Is there nothing available on the tool bar. Do we need to write everything in book.json?
@@ -13,5 +12,5 @@ How to include a toc? - plugin in book.json?
 
 How to publish from desktop editor.
 
-
+After pull. I cant find Heading 1
 
